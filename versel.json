@@ -1,14 +1,11 @@
 {
   "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "build/client",
   "builds": [
     {
       "src": "build/server/index.js",
       "use": "@vercel/node"
-    },
-    {
-      "src": "build/client/**",
-      "use": "@vercel/static",
-      "config": { "maxAge": 3600 }
     }
   ],
   "routes": [
