@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   projects: [
     {
       id: "ngobia",
-      title: "Asset Management System (NGOBIA)",
+      title: "National Government-Owned Buildings Information Application (NGOBIA)",
       subtitle: "Enterprise Project • Sept 2023 - July 2024",
       startDate: "2023-09", // NEW FIELD
       endDate: "2024-07",   // NEW FIELD
@@ -103,7 +103,7 @@ export const RESUME_DATA = {
       subtitle: "Enterprise Project • March 2025 - Present",
       startDate: "2025-03", // NEW FIELD
       endDate: "Present",   // NEW FIELD
-      company: "C# • Minimal API • Apigee • MongoDB • Navitaire",
+      company: "Apigee • MongoDB • Navitaire",
       summaryPoints: [
         "Enhanced Cebu Pacific's Universal Account Management Portal for account applications, approvals, and fund operations",
         "Improved modules for Parent–Child Account Management, Fund Management, and Account Type Limits",
