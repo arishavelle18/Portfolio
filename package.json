@@ -2,10 +2,10 @@
   "name": "my-react-router-app",
   "private": true,
   "type": "module",
-  "homepage": "https://arishavelle18.github.io/Portfolio",
+  "homepage": "https://arishavelle18.github.io/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -b githubPage",
     "build": "react-router build",
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
