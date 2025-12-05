@@ -2,7 +2,7 @@
   "name": "my-react-router-app",
   "private": true,
   "type": "module",
-  "homepage": "https://arishavelle18.github.io/",
+  "homepage": "https://arishavelle18.github.io/Portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build/client -b githubPage",
